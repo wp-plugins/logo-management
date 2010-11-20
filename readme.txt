@@ -3,6 +3,9 @@ Contributors: rjsekrn
 Tags: logo, dynamic logo
 Requires at least: 3.0
 Tested up to: 3.1
+Stable tag: trunk
+
+
 
 == Description ==
 
@@ -24,6 +27,8 @@ e.g.
 Test answer.
 
 == Screenshots ==
+
+== Upgrade Notice ==
 
 == Changelog ==
 
