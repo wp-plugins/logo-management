@@ -1,49 +1,43 @@
-=== Plugin Name ===
-Contributors: rjsekrn
-Tags: logo, dynamic logo
+=== Logo Management ===
+
+Contributors: Rajasekaran
+Tags: logo, logo replacement, logo customization, change logo, custom
 Requires at least: 3.0
 Tested up to: 3.1
 Stable tag: trunk
 
-
+This plugin enables you to change easily the admin header logo and login page logo.
 
 == Description ==
 
-This plugin enables you to change easily the admin header logo and login page logo.
+This plugin is extremely easy to use and very flexible.
 
-This plugin is extremely easy to use and very flexible, built with full Ajax and jQuery support.
+You can change the wordpress logo on the admin login page, registration page, lost your password to a logo of your own.
+
 
 == Installation ==
 
-e.g.
+Install this plugin is very simple:
 
-1. Upload `logo-management.zip` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+   1. Upload 'logo-management' folder to the /wp-content/plugins/ directory
+   2. Activate the plugin through the 'Plugins' menu in WordPress
+   3. Give 0777 permission to /logo-management/includes/cache/
+   4. Go to Settings/Logo Management and configure as you want.
 
 == Frequently Asked Questions ==
 
-= test question? =
+= How do I change my register page logo? =
 
-Test answer.
+Once you checked the "Would you like your logo to appear on the login page?" on logo management settings page, 
+It will affect "login" page, "register" page and "lost your password" page.
 
 == Screenshots ==
 
-== Upgrade Notice ==
+1. This is what your Administration Section for Logo Management will look like.
+2. This is the login page with your custom logo.
+3. This is the lost your password page with your custom logo.
 
 == Changelog ==
 
 = 1.0 =
-
-== Arbitrary section ==
-
-You may provide arbitrary sections, in the same format as the ones above.  This may be of use for extremely complicated
-plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
-"installation."  Arbitrary sections will be shown below the built-in sections outlined above.
-
-== A brief Markdown Example ==
-
-Ordered list:
-
-1. Fully customizable!
-2. Multilingual support
-3. Simple installation & easy configuration
+* Initial version release.
