@@ -34,10 +34,6 @@ Install this plugin is very simple:
 Once you checked the "Would you like your logo to appear on the login page?" on logo management settings page, 
 It will affect "login" page, "register" page and "lost your password" page.
 
-== Screenshots ==
-
-1. This is what your Administration Section for Logo Management will look like.
-2. This is the login page with your custom logo.
 
 == Changelog ==
 
