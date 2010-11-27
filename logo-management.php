@@ -3,7 +3,7 @@
 Plugin Name:  Logo Management
 Plugin URI: http://wordpress.org/extend/plugins/logo-management/
 Description: Replace WordPress default login/register page logo with custom one.
-Version: 1.1
+Version: 1.0
 Author: Rajasekaran M
 Author URI: http://wordpress.org/extend/plugins/logo-management/
 */
