@@ -1,7 +1,7 @@
 === Logo Management ===
 
 Contributors: Rajasekaran
-Tags: logo, logo replacement, logo customization, change logo, custom
+Tags: logo, logo replacement, logo customization, change logo, custom logo, custom
 Requires at least: 3.0
 Tested up to: 3.1
 Stable tag: trunk
@@ -14,6 +14,9 @@ This plugin is extremely easy to use and very flexible.
 
 You can change the wordpress logo on the admin login page, registration page, lost your password to a logo of your own.
 
+You can also customize your logo width and height.
+
+Multilingual Support.
 
 == Installation ==
 
@@ -35,9 +38,12 @@ It will affect "login" page, "register" page and "lost your password" page.
 
 1. This is what your Administration Section for Logo Management will look like.
 2. This is the login page with your custom logo.
-3. This is the lost your password page with your custom logo.
 
 == Changelog ==
 
 = 1.0 =
 * Initial version release.
+
+= 1.1 =
+* Adding custom width and height for logo.
+* update lm.pot file and screenshots.
