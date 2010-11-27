@@ -4,7 +4,7 @@ Contributors: Rajasekaran
 Tags: logo, logo replacement, logo customization, change logo, custom logo, custom
 Requires at least: 3.0
 Tested up to: 3.1
-Stable tag: trunk
+Stable tag: 1.1
 
 This plugin enables you to change easily the admin header logo and login page logo.
 
