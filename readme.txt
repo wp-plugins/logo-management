@@ -39,7 +39,5 @@ It will affect "login" page, "register" page and "lost your password" page.
 
 = 1.0 =
 * Initial version release.
-
-= 1.1 =
 * Adding custom width and height for logo.
 * update lm.pot file and screenshots.
