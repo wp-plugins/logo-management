@@ -25,7 +25,8 @@ Install this plugin is very simple:
    1. Upload 'logo-management' folder to the /wp-content/plugins/ directory
    2. Activate the plugin through the 'Plugins' menu in WordPress
    3. Give 0777 permission to /logo-management/includes/cache/
-   4. Go to Settings/Logo Management and configure as you want.
+   4. Give 0777 permission to /logo-management/logos/
+   5. Go to Settings/Logo Management and configure as you want.
 
 == Frequently Asked Questions ==
 
